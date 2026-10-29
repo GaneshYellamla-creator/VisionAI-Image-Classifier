@@ -1,7 +1,6 @@
 
 streamlit>=1.40,<2.0
-tensorflow>=2.16,<2.21
+tensorflow==2.20.0
 Pillow>=10.0
 numpy<2.2
 pandas>=2.0
-
